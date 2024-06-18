@@ -1,0 +1,17 @@
+node_modules
+*debug.log*
+# .vscode
+lib/
+es/
+lerna-debug.log
+*.log
+*.tgz
+dist
+dist-sourcemap
+.DS_Store
+packages/*/build
+credential.txt
+.camp
+build.log
+.idea
+coverage
